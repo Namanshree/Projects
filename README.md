@@ -68,8 +68,8 @@ I enjoy building data-driven solutions, automating workflows, and creating dashb
 
 ## 📫 Connect With Me  
 - 📧 Email: **namanshree.work@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/naman-shree**  
-- 🧑‍💻 GitHub: **github.com/namanshree**
+- 💼 LinkedIn: **https://www.linkedin.com/in/naman-shree**  
+- 🧑‍💻 GitHub: **https://www.github.com/namanshree**
 
 ---
 
